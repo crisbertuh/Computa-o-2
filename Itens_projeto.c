@@ -7,15 +7,10 @@ ITENS IMPORTANTES
 --> 20% dos dados devem ser utilizados para teste da IA
 --> O trabalho deve ser feito em dupla.
 
-
-
-
-
-
-
-
-
-
-
+METODOLOGIA: APRENDIZADO DE MÁQUINA
+--> Aprendizado supervisionado
+    --> Regressão** ou Previsão
+    --> Agrupamento/Cluster 
+    --> Regras de associação (recomendação)
 
 */
