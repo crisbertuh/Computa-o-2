@@ -1,17 +1,21 @@
 /*PROJETO FINAL DA DISCIPLINA
 
 ITENS IMPORTANTES
---> O porgrama final deve ser rodado e entregue em C
---> Escolher um método de classificação binária
---> 80% dos dados devem ser utilizados para treinamento da IA
---> 20% dos dados devem ser utilizados para teste da IA
+--> O porgrama final deve ser rodado e entregue em C.
+--> Escolher um método de classificação binária.
+--> 80% dos dados devem ser utilizados para treinamento da IA.
+--> 20% dos dados devem ser utilizados para teste da IA.
 --> O trabalho deve ser feito em dupla.
 
 METODOLOGIA: APRENDIZADO DE MÁQUINA
---> Aprendizado supervisionado
-    --> Regressão** ou Previsão
-    --> Agrupamento/Cluster 
-    --> Regras de associação (recomendação)
---> Vetores de suporte separando as menores distâncias entre uma variável e outra (melhor em 2D)
+--> Aprendizado supervisionado.
+    --> Regressão** ou Previsão.
+    --> Agrupamento/Cluster.
+    --> Regras de associação (recomendação).
+--> Vetores de suporte separando as menores distâncias entre uma variável e outra (melhor em 2D).
+
+DICA:
+--> Buscar por "Binary Classification Method" ou "Binary Classification Algorithm".
+--> Buscar algoritmos com documentação.
 
 */
