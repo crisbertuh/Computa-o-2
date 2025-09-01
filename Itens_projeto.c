@@ -12,5 +12,6 @@ METODOLOGIA: APRENDIZADO DE MÁQUINA
     --> Regressão** ou Previsão
     --> Agrupamento/Cluster 
     --> Regras de associação (recomendação)
+--> Vetores de suporte separando as menores distâncias entre uma variável e outra (melhor em 2D)
 
 */
